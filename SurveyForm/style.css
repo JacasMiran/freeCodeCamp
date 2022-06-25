@@ -7,3 +7,12 @@ label{
     margin: 0 0.5em 0 0;
     vertical-align: middle;
 }
+header h1{
+    text-align: center;
+}
+header p{
+    text-align: center;
+}
+.form-entry{
+    text-align: center;
+}
