@@ -7,12 +7,19 @@ label{
     margin: 0 0.5em 0 0;
     vertical-align: middle;
 }
-header h1{
-    text-align: center;
+
+body{
+    max-width: 600px;
+    margin: auto;
+    padding: 50px 100px;
+    background-color: aqua;
 }
-header p{
-    text-align: center;
+main, header{
+    background-color: aquamarine;
 }
-.form-entry{
-    text-align: center;
+header{
+    margin-bottom: -20px;
+}
+main{
+    padding-top: 20px;
 }
